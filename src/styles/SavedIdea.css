@@ -1,0 +1,24 @@
+.idea{
+    display: flex;
+    width: 100%;
+    list-style-type: circle ;
+}
+
+.content{
+    width: 60%;
+    height: 40px;
+}
+
+.si-scores{
+    display: flex;
+    width: 50%;
+}
+
+.si-score{
+    display: flex;
+    flex-direction: column;
+    margin: 12px;
+    height: 70px;
+    justify-content: space-evenly;
+    align-items: center;
+}
