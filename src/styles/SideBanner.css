@@ -1,0 +1,16 @@
+.sideBanner{
+    background-color:green;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    justify-content: space-around;
+    align-items: center;
+    width: 15%;
+    margin: 3%;
+}
+
+.separator{
+    border-bottom: 2px solid white;
+    width: 100%;
+}
