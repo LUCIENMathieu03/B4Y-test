@@ -2,6 +2,17 @@
  
  I use all the 3 hours to realise this test
  
+### Run
+To run the project you have to : 
+
+clone the project on your device
+
+after
+```npm install```
+
+and after 
+```npm start```
+ 
 ### Fonctionality
 I add all the fonctionality for the frontend part.
 But i struggle to connect the Api, in postman I was able to retrieve the token but i did not manage to do anyting else.
